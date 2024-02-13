@@ -27,11 +27,16 @@ Including Support and Links
 
 
 
-3) LeaderSkill 
+3) LeaderSkill (The Combined Leaderskill(Both Your lead and Friend Lead) the Character is under
 
 ![image](https://github.com/Suiron99/Dokkan-Calculator/assets/142955018/c5c8eba5-36e6-4616-b58e-fed1d5df0578)
 
 
 
 4) No of Additional Super Attacks and Additional Super Attack Multipliers
-5) 
+
+
+   ![image](https://github.com/Suiron99/Dokkan-Calculator/assets/142955018/8bed72a4-73b8-4f5a-8525-8eca6110316c)
+
+   
+6) 
