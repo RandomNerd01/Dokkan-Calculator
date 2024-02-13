@@ -1,7 +1,18 @@
-#Dokkan Defense Calculator
-Instead of hardcoding a multiplier for every unit in the game(Too tedious), I used Python to search through DokkanInfo.com
-##Steps
+# Dokkan Defense Calculator
+
+Instead of hardcoding a multiplier for every unit in the game(Too tedious), I used Python to search through DokkanInfo.com and search through the html file of characters. There, I then find patterns in the HTML file that automatically determine the passive and
+calculates the multipliers automatically
+
+## WIP
+
+Characters that Stack Defense
+Including Support and Links
+
+## Steps
+
 1)Input Character ID from DokkanInfo
+
+
 ![image](https://github.com/Suiron99/Dokkan-Calculator/assets/142955018/0563585b-4bfb-4f77-857f-8c79e7f97f0e)
 
 
@@ -16,6 +27,11 @@ Instead of hardcoding a multiplier for every unit in the game(Too tedious), I us
 
 
 
-3) LeaderSkill
+3) LeaderSkill 
+
+![image](https://github.com/Suiron99/Dokkan-Calculator/assets/142955018/c5c8eba5-36e6-4616-b58e-fed1d5df0578)
+
+
+
 4) No of Additional Super Attacks and Additional Super Attack Multipliers
 5) 
