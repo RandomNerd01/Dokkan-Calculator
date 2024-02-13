@@ -26,6 +26,10 @@ Including Support and Links
 
 
 
+[![Damage points](![image](https://github.com/Suiron99/Dokkan-Calculator/assets/142955018/c28f3da5-117e-48e3-9de2-324c5f5ff6c2)
+)](https://youtu.be/dExsxVgGntg "Damage points")
+
+
 
 3) Input LeaderSkill the Character is under (The Combined Leaderskill(Both Your lead and Friend Lead) 
 
