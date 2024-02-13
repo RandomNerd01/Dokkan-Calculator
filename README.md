@@ -39,9 +39,19 @@ Including Support and Links
 ![image](https://github.com/Suiron99/Dokkan-Calculator/assets/142955018/8bed72a4-73b8-4f5a-8525-8eca6110316c)
 
    
+
 5) Whether Character Performed the Ultra/Unit Super Attack and its Multiplier
+
+
+
 ![image](https://github.com/Suiron99/Dokkan-Calculator/assets/142955018/c943633e-4246-4447-908a-269179ff9156)
 
+
+
+
 6) Gives you Final Defense Stat
+
+
+
 ![image](https://github.com/Suiron99/Dokkan-Calculator/assets/142955018/ba90694b-c956-49b9-a5e7-c5bf8ca31e48)
 
