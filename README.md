@@ -56,6 +56,17 @@ Amount of Ki Spheres Obtained by character during the turn. If character has a n
 ![image](https://github.com/Suiron99/Dokkan-Calculator/assets/142955018/4779fcd9-127f-43cc-bedb-5e52914ed4a4)
 
 
+
+
+
+6) Gives you Final Defense Stat
+
+
+
+![image](https://github.com/Suiron99/Dokkan-Calculator/assets/142955018/ba90694b-c956-49b9-a5e7-c5bf8ca31e48)
+
+
+
 ## Stacked Defense
 1) If a Character Stacks Defense(Multiple turns or permanently)
 
@@ -150,9 +161,4 @@ Amount of Ki Spheres Obtained by character during the turn. If character has a n
 
 
 
-6) Gives you Final Defense Stat
-
-
-
-![image](https://github.com/Suiron99/Dokkan-Calculator/assets/142955018/ba90694b-c956-49b9-a5e7-c5bf8ca31e48)
 
