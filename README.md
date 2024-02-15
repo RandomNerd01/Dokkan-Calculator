@@ -22,7 +22,21 @@ Including Support and Links
 
 ![image](https://github.com/Suiron99/Dokkan-Calculator/assets/142955018/073f9e1d-df0f-48bf-846a-1d97658b7294)
 
-2) Input Number of Ki Spheres Obtained
+3) Optional(Active Skill Defense Buff)
+For example, image below 1.58 is representing the 158% Def Buff that LR STR Beast Gohan gets for the Turn.
+
+4) Optional (Support Units)
+Amount of Support on Rotation(For example, image below represents the 40% Support provided by the LR Gamma 1 & Gamma 2)
+
+![image](https://github.com/Suiron99/Dokkan-Calculator/assets/142955018/4779fcd9-127f-43cc-bedb-5e52914ed4a4)
+
+
+
+
+![image](https://github.com/Suiron99/Dokkan-Calculator/assets/142955018/3ecc00a1-0259-4b03-8dcf-50a3a1ca4a80)
+
+
+3) Input Number of Ki Spheres Obtained
 
 
 
@@ -31,7 +45,7 @@ Including Support and Links
 
 
 
-3) Input LeaderSkill the Character is under (The Combined Leaderskill(Both Your lead and Friend Lead) 
+4) Input LeaderSkill the Character is under (The Combined Leaderskill(Both Your lead and Friend Lead) )
 
 ![image](https://github.com/Suiron99/Dokkan-Calculator/assets/142955018/c5c8eba5-36e6-4616-b58e-fed1d5df0578)
 
