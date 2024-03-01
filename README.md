@@ -7,8 +7,6 @@ calculates the multipliers automatically
 
 Currently only shows characters' defense stats when fully built up.
 
-Characters that get Defensive Buffs from being put in a certain slot is not worked into the calculator. (Eg: Int DFE Piccolo Jr)
-
 Certain Characters like int dokkanfest ssj Vegeta(GT) gets their base defense multipliers messed up because they get different percentages both in same line of text
 
 Characters that get multipicative stats per attack or super attack performed in their passive is not worked into the calculator. (Eg: Phy 23rd WT Tien)
