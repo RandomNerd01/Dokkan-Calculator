@@ -9,8 +9,6 @@ Currently only shows characters' defense stats when fully built up.
 
 Certain Characters like int dokkanfest ssj Vegeta(GT) gets their base defense multipliers messed up because they get different percentages both in same line of text
 
-Certain Characters like int LR Vegeta and Trunks get their multiplied defense wrong because 'DEF +15% (up to 75%)' - no DEF inside bracket.
-
 Characters that get multipicative stats per attack or super attack performed in their passive is not worked into the calculator. (Eg: Phy 23rd WT Tien)
 
 ## Steps
