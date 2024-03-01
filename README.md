@@ -7,8 +7,6 @@ calculates the multipliers automatically
 
 Currently only shows characters' defense stats when fully built up.
 
-Doesn't work for characters with 
-
 Certain Characters like int dokkanfest ssj Vegeta(GT) gets their base defense multipliers messed up because they get different percentages both in same line of text that are both an equal distance away from 'DEF'
 
 Certain Characters that have 3 and above brackets in 1 bullet point will need to be hardcoded(Eg: Int LR Vegeta and Trunks is hardcoded but need to watch out for other characters)
