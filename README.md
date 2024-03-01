@@ -5,8 +5,6 @@ calculates the multipliers automatically
 
 ## WIP
 
-Characters that Nuke with a certain Type of Ki Sphere instead of general Ki Spheres is not worked into the calculator. (Eg: All 50% type supports)
-
 Currently only shows characters' defense stats when fully built up.
 
 Characters that get Defensive Buffs from being put in a certain slot is not worked into the calculator. (Eg: Int DFE Piccolo Jr)
