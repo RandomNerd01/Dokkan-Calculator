@@ -9,7 +9,7 @@ Currently only shows characters' defense stats when fully built up.
 
 Certain Characters like int dokkanfest ssj Vegeta(GT) gets their base defense multipliers messed up because they get different percentages both in same line of text
 
-Certain Characters that have more than 2 brackets in 1 bullet point will need to be hardcoded(Eg: Int LR Vegeta and Trunks)
+Certain Characters that have more than 2 brackets in 1 bullet point will need to be hardcoded(Eg: Int LR Vegeta and Trunks is hardcoded but need to watch out for other characters)
 
 Characters that get multipicative stats per attack or super attack performed in their passive is not worked into the calculator. (Eg: Phy 23rd WT Tien)
 
