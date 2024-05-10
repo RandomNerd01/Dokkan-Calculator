@@ -5,13 +5,11 @@ calculates the multipliers automatically
 
 ## WIP
 
-Currently only shows characters' defense stats when fully built up.
+Currently only shows certain characters' defense stats when fully built up.
 
-Certain Characters like int dokkanfest ssj Vegeta(GT) gets their base defense multipliers messed up because they get different percentages both in same line of text that are both an equal distance away from 'DEF' (His one has been fixed but gotta watch out for other characters)
+Characters that get stats per attack or super attack performed or per ally in their passive that doesn't have an upper limit doesn't work in the calculator. For example, agl gamma 2 has an upper limit so his one is calculated correctly but phy 23rd WT Tien or phy dfe rose doesn't tho tien's one is fixed already)
 
-Certain Characters that have 3 and above brackets in 1 bullet point will need to be hardcoded(Eg: Int LR Vegeta and Trunks has been fixed but need to watch out for other characters)
-
-Characters that get stats per attack or super attack performed or per ally in their passive that doesn't have an upper limit doesn't work in the calculator. For example, agl gamma 2 has an upper limit so his one is calculated correctly but phy 23rd WT Tien or phy dfe rose doesn't so theirs are calculated wrongly so need to fix both of them)
+Characters with health-based passives will simply get the max stats possible(LR int Battlefield MEtal Cooler) (These aren't fixed)
 
 ## Steps
 
