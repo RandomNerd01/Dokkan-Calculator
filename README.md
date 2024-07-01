@@ -13,11 +13,21 @@ However, exceptions to these patterns are very common especially in characters t
 ![image](https://github.com/Suiron99/Dokkan-Calculator/assets/142955018/0563585b-4bfb-4f77-857f-8c79e7f97f0e)
 
 
-2) Follow Steps that are shown inside the command prompt
+2) Follow Steps that are shown inside the command prompt.
 
 
 
-3) Gives you Final Defense Stat at the end
+
+3) All Characters have custom options based on their passives. For example, DokkanFest AGL First Form Frieza has an intro as well as defense based on number of terrifying conqueror allies on the team.
+
+
+![image](https://github.com/RandomNerd01/Dokkan-Calculator/assets/142955018/7154a8f9-893d-41c0-a992-69d96615a362)
+
+
+
+
+
+4) Gives you Final Defense Stat at the end
 
 
 
