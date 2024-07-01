@@ -4,8 +4,9 @@ Instead of hardcoding a multiplier for every unit in the game(Too tedious), I us
 
 However, exceptions to these patterns are very common especially in characters that have more complex pasives, thus the code for a signficant amount of characters had to be different.
 
+## Steps to Download Program
 
-## Steps
+## Steps to Run Program
 
 1)Input Character ID from DokkanInfo (Find character from https://dokkaninfo.com/cards. Click the Card. Then Get the Character ID)
 
