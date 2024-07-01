@@ -21,6 +21,7 @@ However, exceptions to these patterns are very common especially in characters t
 3) All Characters have custom options based on their passives. For example, DokkanFest AGL First Form Frieza has an intro as well as defense based on number of terrifying conqueror allies on the team.
 
 
+
 ![image](https://github.com/RandomNerd01/Dokkan-Calculator/assets/142955018/7154a8f9-893d-41c0-a992-69d96615a362)
 
 
@@ -31,7 +32,9 @@ However, exceptions to these patterns are very common especially in characters t
 
 
 
-![image](https://github.com/Suiron99/Dokkan-Calculator/assets/142955018/ba90694b-c956-49b9-a5e7-c5bf8ca31e48)
+
+![image](https://github.com/RandomNerd01/Dokkan-Calculator/assets/142955018/579af78e-a097-4b21-a2f3-58bb21b51bfb)
+
 
 
 
