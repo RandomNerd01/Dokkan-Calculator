@@ -17,7 +17,7 @@ However, exceptions to these patterns are very common especially in characters t
 
 
 
-2) With The .exe file now in your possesion, left click to run the installation and first choose which folder u wanna install this program in
+2) With The .exe file now in your possesion, left click twice to run the installation and first choose which folder u wanna install this program in
 
 
 
@@ -38,23 +38,25 @@ However, exceptions to these patterns are very common especially in characters t
 
 
 
-4) Enter the Folder and click 'run.py' twice to start running the python program
+4) Enter the Folder in which u installed it and left click 'Calc.exe' twice to start running the python program
 
 
 
 
-![image](https://github.com/RandomNerd01/Dokkan-Calculator/assets/142955018/79933f3e-529d-4ba2-a7f9-20d31fb995b5)
+![image](https://github.com/RandomNerd01/Dokkan-Calculator/assets/142955018/2222f50d-0d5c-4e5e-8123-be13d39772f3)
 
 
 
 
 
-5) A Command Prompt Will Show Up. Type 1 and then press the enter button on yopur keyboard to start running the calculator.
+
+5) A Command Prompt Will Show Up. Type y and press  enter to run the calculator. Type n and press enter to close the command prompt.
 
 
 
+![image](https://github.com/RandomNerd01/Dokkan-Calculator/assets/142955018/e68b6f57-454a-4549-acf9-84bda192bca3)
 
-![image](https://github.com/RandomNerd01/Dokkan-Calculator/assets/142955018/f4711540-42a3-45dc-a11a-e7cc7718ca41)
+
 
 
 
