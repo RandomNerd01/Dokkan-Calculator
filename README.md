@@ -64,7 +64,7 @@ However, exceptions to these patterns are very common especially in characters t
 
 ## Steps to Run Program
 
-1)Input Character ID from DokkanInfo (Find character from https://dokkaninfo.com/cards. Click the Card. Then Get the Character ID)
+1)Input Character ID from DokkanInfo (Find character from https://jpnen.dokkaninfo.com/cards. Click the Card. Then Get the Character ID)
 
 
 ![image](https://github.com/Suiron99/Dokkan-Calculator/assets/142955018/0563585b-4bfb-4f77-857f-8c79e7f97f0e)
