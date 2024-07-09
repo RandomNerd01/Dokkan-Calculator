@@ -6,35 +6,33 @@ However, exceptions to these patterns are very common especially in characters t
 
 ## Steps to Download Program
 
-1) Go to Website and Click 'Download Calculator' to obtain the .rar file
+1) Go to Website and Click 'Download Calculator' to obtain the .exe file
 
 
 
-![image](https://github.com/RandomNerd01/Dokkan-Calculator/assets/142955018/df18444f-2ae9-448a-971f-b55a5dbb4467)
-
-
-
-
-![image](https://github.com/RandomNerd01/Dokkan-Calculator/assets/142955018/df0df77c-94e5-4eb2-bd83-1713fcbd1cfa)
+![image](https://github.com/RandomNerd01/Dokkan-Calculator/assets/142955018/16ca5262-3ae0-48a0-9609-dffa7f6ef851)
 
 
 
 
-2) With The .rar file now in your possesion, right click to ger the drop-down menu and click 'extract here' which will extract the file using 7zip or any other file extracting software
+
+
+2) With The .exe file now in your possesion, left click to run the installation and first choose which folder u wanna install this program in
 
 
 
-  ![image](https://github.com/RandomNerd01/Dokkan-Calculator/assets/142955018/6a330046-a368-4600-847b-302eaaad0a64)
+![image](https://github.com/RandomNerd01/Dokkan-Calculator/assets/142955018/5f22b1ac-d52b-4e2f-8623-7212a6854b9c)
 
   
 
 
-3) Navigate to the extracted folder 
+3) Click install
 
 
 
 
-![image](https://github.com/RandomNerd01/Dokkan-Calculator/assets/142955018/b61ecb54-ddef-44e6-9d5f-22f564b3896f)
+![image](https://github.com/RandomNerd01/Dokkan-Calculator/assets/142955018/389c0937-e0a9-408e-94de-00bb95368799)
+
 
 
 
