@@ -92,7 +92,6 @@ However, exceptions to these patterns are very common especially in characters t
 
 
 
-![image](https://github.com/RandomNerd01/Dokkan-Calculator/assets/142955018/579af78e-a097-4b21-a2f3-58bb21b51bfb)
 
 
 
