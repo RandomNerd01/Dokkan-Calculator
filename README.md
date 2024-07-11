@@ -4,9 +4,20 @@ Instead of hardcoding a multiplier for every unit in the game(Too tedious), I us
 
 However, exceptions to these patterns are very common especially in characters that have more complex pasives, thus the code for a signficant amount of characters had to be different.
 
+## For Those Scared of The False Positives from the .exe File
+1) Go to website and download.py file.
+
+
+
+2) Skip Step 2 if u already have python installed on your PC. Install python if u have not done so (https://www.python.org/downloads/).
+
+
+
+3) Double left click on the .py to run the program and you are done!
+
 ## Steps to Download Program
 
-1) Go to Website and Click 'Download Calculator' to obtain the .exe file
+1) Go to Website and Click 'Download Calculator .exe file' to obtain the .exe file
 
 
 
