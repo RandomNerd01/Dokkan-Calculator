@@ -26,30 +26,7 @@ However, exceptions to these patterns are very common especially in characters t
 
 
 
-
-
-2) With The .exe file now in your possesion, left click twice to run the installation and first choose which folder u wanna install this program in
-
-
-
-![image](https://github.com/RandomNerd01/Dokkan-Calculator/assets/142955018/5f22b1ac-d52b-4e2f-8623-7212a6854b9c)
-
-  
-
-
-3) Click install
-
-
-
-
-![image](https://github.com/RandomNerd01/Dokkan-Calculator/assets/142955018/389c0937-e0a9-408e-94de-00bb95368799)
-
-
-
-
-
-
-4) Enter the Folder in which u installed it and left click 'Calc.exe' twice to start running the python program
+2) Enter the Folder in which u installed it and left click the exe twice to start running the program
 
 
 
