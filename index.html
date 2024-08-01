@@ -12,7 +12,31 @@
         .container {
             max-width: 600px;
             margin: auto;
-            text-align: center;
+        }
+        .tabs {
+            overflow: hidden;
+            border-bottom: 2px solid #ddd;
+        }
+        .tab-button {
+            background-color: #f1f1f1;
+            border: none;
+            outline: none;
+            padding: 14px 16px;
+            cursor: pointer;
+            float: left;
+            transition: 0.3s;
+        }
+        .tab-button:hover {
+            background-color: #ddd;
+        }
+        .tab-content {
+            display: none;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-top: none;
+        }
+        .active {
+            display: block;
         }
         .download-btn {
             background-color: #4CAF50;
@@ -21,7 +45,8 @@
             text-decoration: none;
             display: inline-block;
             border-radius: 5px;
-            margin-top: 20px;
+            margin-top: 10px;
+            display: block;
         }
         .download-btn:hover {
             background-color: #45a049;
@@ -31,17 +56,50 @@
 <body>
     <div class="container">
         <h1>Dokkan Defense Calculator</h1>
-        <p>This website provides a calculator tool for Dokkan Battle.</p>
-        <p>You can find the project repository as well as usage instructions on GitHub:</p>
-        <p><a href="https://github.com/RandomNerd01/Dokkan-Calculator" target="_blank">Dokkan Calculator Repository</a></p>
         
-        <p>Latest Character that Calculator is updated to:</p>
-        
-        <img src="calculator_updated.png" alt="Calculator Updated GIF" style="width: 100%; max-width: 400px; margin-top: 2px;">
-        
-        <a href="https://github.com/RandomNerd01/Dokkan-Calculator/blob/main/DokkanDefenseCalculator.py?raw=true" class="download-btn">Download Calculator .py file (PC needs to have python installed. For Those Who are Afraid of the False Positives Flagged by the .exe file))</a>
-        
-        <a href="https://github.com/RandomNerd01/Dokkan-Calculator/blob/main/DokkanDefenseCalculator.exe?raw=true" class="download-btn">Download Calculator .exe file</a>
+        <div class="tabs">
+            <button class="tab-button" onclick="openTab('general')">General</button>
+            <button class="tab-button" onclick="openTab('project-info')">Project Information</button>
+            <button class="tab-button" onclick="openTab('downloads')">Download Links</button>
+        </div>
+
+        <div id="general" class="tab-content">
+            <p>Welcome to the Dokkan Defense Calculator! Here, you can find tools and resources to enhance your gameplay in Dokkan Battle. This website is dedicated to providing accurate and up-to-date information to help you maximize your game experience.</p>
+        </div>
+
+        <div id="project-info" class="tab-content">
+            <p>This website provides a calculator tool for Dokkan Battle.</p>
+            <p>You can find the project repository as well as usage instructions on GitHub:</p>
+            <p><a href="https://github.com/RandomNerd01/Dokkan-Calculator" target="_blank">Dokkan Calculator Repository</a></p>
+        </div>
+
+        <div id="downloads" class="tab-content">
+            <p>Latest Character that Calculator is updated to:</p>
+            <img src="calculator_updated.png" alt="Calculator Updated GIF" style="width: 100%; max-width: 400px; margin-top: 2px;">
+            <a href="https://github.com/RandomNerd01/Dokkan-Calculator/blob/main/DokkanDefenseCalculator.py?raw=true" class="download-btn">Download Calculator .py file (PC needs to have python installed. For Those Who are Afraid of the False Positives Flagged by the .exe file)</a>
+            <a href="https://github.com/RandomNerd01/Dokkan-Calculator/blob/main/DokkanDefenseCalculator.exe?raw=true" class="download-btn">Download Calculator .exe file</a>
+        </div>
     </div>
+
+    <script>
+        function openTab(tabId) {
+            // Hide all tab content
+            const contents = document.querySelectorAll('.tab-content');
+            contents.forEach(content => content.classList.remove('active'));
+
+            // Remove 'active' class from all tab buttons
+            const buttons = document.querySelectorAll('.tab-button');
+            buttons.forEach(button => button.classList.remove('active'));
+
+            // Show the selected tab content
+            document.getElementById(tabId).classList.add('active');
+
+            // Add 'active' class to the clicked button
+            event.currentTarget.classList.add('active');
+        }
+
+        // Set the default tab
+        document.querySelector('.tab-button').click();
+    </script>
 </body>
 </html>
