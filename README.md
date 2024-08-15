@@ -26,7 +26,7 @@ However, exceptions to these patterns are very common especially in characters t
 
 
 
-2) Enter the Folder in which u installed it and left click the exe twice to start running the program
+2) Left click the exe twice to start running the program
 
 
 
